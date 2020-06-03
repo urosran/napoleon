@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a4ca9ec-666f-4ac4-b2e2-4a5d51522dfb" name="Default Changelist" comment="added payment pages&#10;TODO: add the subscription for 20$/MO">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="6a4ca9ec-666f-4ac4-b2e2-4a5d51522dfb" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +65,7 @@
       <workItem from="1588910032475" duration="4259000" />
       <workItem from="1588989300331" duration="239000" />
       <workItem from="1590615475856" duration="9284000" />
-      <workItem from="1590873960320" duration="4058000" />
+      <workItem from="1590873960320" duration="4409000" />
     </task>
     <task id="LOCAL-00001" summary="sign up &#10;TODO: Payment pages">
       <created>1590719271935</created>
@@ -84,7 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590725239880</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added the product image">
+      <created>1591145626948</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591145626948</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added the product images">
+      <created>1591145666998</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591145666998</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,12 +117,18 @@
     <MESSAGE value="sign up &#10;TODO: Payment pages" />
     <MESSAGE value="added payment pages&#10;TODO: add the" />
     <MESSAGE value="added payment pages&#10;TODO: add the subscription for 20$/MO" />
-    <option name="LAST_COMMIT_MESSAGE" value="added payment pages&#10;TODO: add the subscription for 20$/MO" />
+    <MESSAGE value="added the product image" />
+    <MESSAGE value="added the product images" />
+    <option name="LAST_COMMIT_MESSAGE" value="added the product images" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1368" y="257" key="Vcs.Push.Dialog.v2" timestamp="1590725248435">
+    <state x="-1335" y="101" key="CommitChangelistDialog2" timestamp="1591145666342">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="-1368" y="257" key="Vcs.Push.Dialog.v2/88.0.1832.1080/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1590725248435" />
+    <state x="-1335" y="101" key="CommitChangelistDialog2/88.0.1832.1080/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591145666342" />
+    <state x="-1368" y="257" key="Vcs.Push.Dialog.v2" timestamp="1591145886795">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1368" y="257" key="Vcs.Push.Dialog.v2/88.0.1832.1080/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591145886795" />
   </component>
 </project>
