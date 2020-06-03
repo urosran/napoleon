@@ -19,11 +19,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a4ca9ec-666f-4ac4-b2e2-4a5d51522dfb" name="Default Changelist" comment="" />
+    <list default="true" id="6a4ca9ec-666f-4ac4-b2e2-4a5d51522dfb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,6 +45,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -41,6 +53,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="liveEdit" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\urosr\Apps\napoleon" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/resto/index.html" useBuiltInWebServerPort="true">
@@ -65,7 +82,7 @@
       <workItem from="1588910032475" duration="4259000" />
       <workItem from="1588989300331" duration="239000" />
       <workItem from="1590615475856" duration="9284000" />
-      <workItem from="1590873960320" duration="5375000" />
+      <workItem from="1590873960320" duration="9068000" />
     </task>
     <task id="LOCAL-00001" summary="sign up &#10;TODO: Payment pages">
       <created>1590719271935</created>
@@ -116,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591146170389</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added a better image">
+      <created>1591146907603</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591146907603</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,16 +167,17 @@
     <MESSAGE value="image rename" />
     <MESSAGE value="transparent img" />
     <MESSAGE value="transparent img removed" />
-    <option name="LAST_COMMIT_MESSAGE" value="transparent img removed" />
+    <MESSAGE value="added a better image" />
+    <option name="LAST_COMMIT_MESSAGE" value="added a better image" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1335" y="101" key="CommitChangelistDialog2" timestamp="1591146169785">
+    <state x="-1335" y="101" key="CommitChangelistDialog2" timestamp="1591146906073">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="-1335" y="101" key="CommitChangelistDialog2/88.0.1832.1080/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591146169785" />
-    <state x="-1368" y="257" key="Vcs.Push.Dialog.v2" timestamp="1591146243945">
+    <state x="-1335" y="101" key="CommitChangelistDialog2/88.0.1832.1080/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591146906073" />
+    <state x="-1368" y="257" key="Vcs.Push.Dialog.v2" timestamp="1591146911406">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="-1368" y="257" key="Vcs.Push.Dialog.v2/88.0.1832.1080/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591146243945" />
+    <state x="-1368" y="257" key="Vcs.Push.Dialog.v2/88.0.1832.1080/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591146911406" />
   </component>
 </project>
