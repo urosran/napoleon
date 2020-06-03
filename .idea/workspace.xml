@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a4ca9ec-666f-4ac4-b2e2-4a5d51522dfb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="6a4ca9ec-666f-4ac4-b2e2-4a5d51522dfb" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +65,7 @@
       <workItem from="1588910032475" duration="4259000" />
       <workItem from="1588989300331" duration="239000" />
       <workItem from="1590615475856" duration="9284000" />
-      <workItem from="1590873960320" duration="4683000" />
+      <workItem from="1590873960320" duration="5375000" />
     </task>
     <task id="LOCAL-00001" summary="sign up &#10;TODO: Payment pages">
       <created>1590719271935</created>
@@ -111,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591146089972</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="transparent img removed">
+      <created>1591146170389</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591146170389</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,16 +142,17 @@
     <MESSAGE value="added the product images" />
     <MESSAGE value="image rename" />
     <MESSAGE value="transparent img" />
-    <option name="LAST_COMMIT_MESSAGE" value="transparent img" />
+    <MESSAGE value="transparent img removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="transparent img removed" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1335" y="101" key="CommitChangelistDialog2" timestamp="1591146089399">
+    <state x="-1335" y="101" key="CommitChangelistDialog2" timestamp="1591146169785">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="-1335" y="101" key="CommitChangelistDialog2/88.0.1832.1080/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591146089399" />
-    <state x="-1368" y="257" key="Vcs.Push.Dialog.v2" timestamp="1591146092600">
+    <state x="-1335" y="101" key="CommitChangelistDialog2/88.0.1832.1080/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591146169785" />
+    <state x="-1368" y="257" key="Vcs.Push.Dialog.v2" timestamp="1591146243945">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="-1368" y="257" key="Vcs.Push.Dialog.v2/88.0.1832.1080/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591146092600" />
+    <state x="-1368" y="257" key="Vcs.Push.Dialog.v2/88.0.1832.1080/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1591146243945" />
   </component>
 </project>
