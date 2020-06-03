@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a4ca9ec-666f-4ac4-b2e2-4a5d51522dfb" name="Default Changelist" comment="sign up &#10;TODO: Payment pages">
+    <list default="true" id="6a4ca9ec-666f-4ac4-b2e2-4a5d51522dfb" name="Default Changelist" comment="added payment pages&#10;TODO: add the subscription for 20$/MO">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -67,7 +67,8 @@
       <updated>1588910031059</updated>
       <workItem from="1588910032475" duration="4259000" />
       <workItem from="1588989300331" duration="239000" />
-      <workItem from="1590615475856" duration="7407000" />
+      <workItem from="1590615475856" duration="9284000" />
+      <workItem from="1590873960320" duration="4058000" />
     </task>
     <task id="LOCAL-00001" summary="sign up &#10;TODO: Payment pages">
       <created>1590719271935</created>
@@ -76,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590719271935</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added payment pages&#10;TODO: add the subscription for 20$/MO">
+      <created>1590725239880</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590725239880</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,15 +100,18 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sign up &#10;TODO: Payment pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="sign up &#10;TODO: Payment pages" />
+    <MESSAGE value="added payment pages&#10;TODO: add the" />
+    <MESSAGE value="added payment pages&#10;TODO: add the subscription for 20$/MO" />
+    <option name="LAST_COMMIT_MESSAGE" value="added payment pages&#10;TODO: add the subscription for 20$/MO" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1368" y="257" key="Vcs.Push.Dialog.v2" timestamp="1590719276199">
+    <state x="-1368" y="257" key="Vcs.Push.Dialog.v2" timestamp="1590725248435">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="-1368" y="257" key="Vcs.Push.Dialog.v2/88.0.1832.1080/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1590719276199" />
+    <state x="-1368" y="257" key="Vcs.Push.Dialog.v2/88.0.1832.1080/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1590725248435" />
   </component>
 </project>
